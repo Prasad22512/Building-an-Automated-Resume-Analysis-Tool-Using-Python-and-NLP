@@ -176,38 +176,3 @@ Building an automated resume analysis tool combines **Python**, **NLP**, and **w
 5. Displaying results in a web app
 
 Enhancements like OCR, HR integrations, and batch processing can be added later. Thoroughly test your implementation to ensure robustness.
-
----
-
-## Resources
-
-### GitHub Repositories
-
-- [OmkarPathak/ResumeParser](https://github.com/OmkarPathak/ResumeParser)
-- [sanketsarwade/Resume-Parser-using-Python](https://github.com/sanketsarwade/Resume-Parser-using-Python)
-- [kbrajwani/resume_parser](https://github.com/kbrajwani/resume_parser)
-- [hxu296/nlp-resume-parser](https://github.com/hxu296/nlp-resume-parser)
-- [bjherger/ResumeParser](https://github.com/bjherger/ResumeParser)
-
-### Tutorials & Articles
-
-- [How to build a Resume Parser using Python (GeeksforGeeks)](https://www.geeksforgeeks.org/nlp/project-how-to-build-a-resume-parser-using-python/)
-- [NER in Python with SpaCy (Analytics Vidhya)](https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/)
-- [Training Custom NER in SpaCy (Machine Learning Plus)](https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/)
-- [TF-IDF Cosine Similarity (Stack Overflow)](https://stackoverflow.com/questions/12118720/python-tf-idf-cosine-to-find-document-similarity)
-- [TF-IDF and similarity scores (Chan’s Notebook)](https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/main/_notebooks/2020-07-17-04-TF-IDF-and-similarity-scores.ipynb)
-- [Streamlit file_uploader (Forum)](https://discuss.streamlit.io/t/file-uploading-and-reading-using-st-file-uploader/31897)
-- [Working with File Uploads (JCharisTech)](https://blog.jcharistech.com/2020/11/08/working-with-file-uploads-in-streamlit-python/)
-
-### YouTube Tutorials
-
-- Search for:
-  - "Spacy 3 Masterclass Tutorials"
-  - "How to Build Resume Parser with NLP"
-  - "TF-IDF Cosine Similarity Python Tutorials"
-  - "Streamlit st.file_uploader usage"
-
-### Additional Cosine Similarity Resources
-
-- [How to Calculate Cosine Similarity Using TF-IDF (ML Journey)](https://mljourney.com/how-to-calculate-cosine-similarity-using-tf-idf/)
-- [TF-IDF and Similarity Scores (Kakamana Blog)](https://kakamana.github.io/posts/TF-IDF%20and%20similarity%20scores/TF-IDF%20and%20similarity%20scores.html)
