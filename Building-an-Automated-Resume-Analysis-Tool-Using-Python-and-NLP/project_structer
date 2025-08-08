@@ -1,0 +1,23 @@
+resume-analyzer/            # root directory
+├── README.md               # project overview, installation & usage
+├── requirements.txt        # conda environment spec (includes all dependencies)
+├── .gitignore              # ignore envs, __pycache__, uploads, .ipynb_checkpoints/
+├── notebooks/ 
+|   |---requirements.txt             # interactive analysis & development
+│   ├── 1_text_extraction.ipynb    # file upload & PDF/DOCX parsing
+│   ├── 2_info_extraction.ipynb    # name, contact, skills, education, experience
+│   ├── 3_matching_scoring.ipynb   # preprocessing, TF-IDF, cosine similarity
+│   └── 4_ui_streamlit.ipynb       # Streamlit app prototype & UI layout
+
+├── data/                   # static resources & sample files
+│   ├── skills.json         # canonical list of skills
+│   ├── stopwords.txt       # custom stop word list
+│   └── sample_resumes/     # resumes for testing (PDF, DOCX)
+
+├── tests/                  # pytest tests (can be minimal or omitted if using notebooks)
+│   └── test_notebooks.py   # example: validate key functions via nbval or direct imports
+
+└── deployment/             # deployment artifacts
+    └── Dockerfile         # container for running Streamlit app
+
+

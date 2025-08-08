@@ -1,0 +1,32 @@
+Vedururu Srinivasa Rao
++91-9032086597 |  srinivasvedururu@gmail.com  |  portfolio  |  Github |  Linkedin
+EDUCATION
+ST. Martins Engineering College, Hyderabad — B.Tech in Artificial Intelligence & Data Science (2023–2027)  
+Narayana Junior College, Hyderabad — Intermediate in MPC (2021–2023)  
+Newton Techno High School, Hyderabad — SSC,Board of Secondary Education (Completed in 2021)
+SKILLS 
+Technical: Python (Advanced), SQL (Advanced), Machine Learning (Supervised & Unsupervised), Statistical Data Analysis, Data Visualization.
+Soft Skills:  Effective Cross-Functional Communication, Creative Problem Solving, Time Management, Adaptability.
+Tools: Power BI, Pandas, NumPy, Scikit-learn, Streamlit, PostgreSQL, Matplotlib, Git , MS Excel.
+Experience
+Accenture North America Data Analytics and Visualization Job Simulation  - May 2025
+Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
+Cleaned, modeled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
+Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
+PROJECTS
+Movie Recommendation System 
+Developed a content-based recommendation engine for 10,000+ movies, leveraging 20+ metadata attributes to achieve 80%+ similarity accuracy using cosine similarity and Scikit-learn.
+Demonstrated adaptability by iterating on user feedback to enhance recommendation accuracy.
+Tech: Python, Pandas, Scikit-learn, Streamlit.  [Live Demo]
+SQL - Sales Analysis 								      	   
+Analyzed 50,000+ sales records using optimized PostgreSQL queries, reducing query execution time by 25%.
+Conducted segmentation and cohort analysis, identifying 15% higher retention potential for targeted customer groups.
+Tech: PostgreSQL, DBeaver, PGadmin.
+Power-BI Dashboard
+Built an interactive Power BI dashboard for 100,000+ SuperStore sales records, visualizing 10+ KPIs across 5 regions.
+Used DAX and time-series forecasting to deliver a 15-day sales forecast, enabling 20% faster decision-making in simulated scenarios.
+Tech: Power BI, DAX, MS Excel.
+CERTIFICATIONS
+Data Science - Mastering the Fundamentals Course | Mastered statistics, data analysis, and visualization techniques | Scaler’2025
+Machine Learning Course | Gained expertise in regression, clustering, and model evaluation | SimpliLearn’2025
+Python and SQL for Data Science Course | Developed proficiency in Python programming and SQL query optimization | Scaler’2025

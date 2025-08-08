@@ -1,0 +1,13 @@
+PyPDF2
+pdfminer.six
+python-docx
+docx2txt
+spacy
+nltk
+scikit-learn
+streamlit
+pandas
+numpy
+regex
+pytesseract
+opencv-python
